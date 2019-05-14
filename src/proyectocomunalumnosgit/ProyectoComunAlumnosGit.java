@@ -7,7 +7,7 @@ package proyectocomunalumnosgit;
 
 /**
  *
- * @author Sonia
+ * @author Juan José González Rodríguez
  */
 public class ProyectoComunAlumnosGit {
 
@@ -16,6 +16,7 @@ public class ProyectoComunAlumnosGit {
      */
     public static void main(String[] args) {
         System.out.println("Probando Github con múltiples colaboradores");
+        System.out.println("Método de Juan José González Rodríguez");
         
     }
     
