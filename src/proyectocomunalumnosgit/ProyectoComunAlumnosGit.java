@@ -9,7 +9,7 @@ package proyectocomunalumnosgit;
  *
  * @author Sonia
  */
-public class ProyectoComunAlumnosGit {
+public class ProyectoComunAlumnosGit {  
 
     /**
      * @param args the command line arguments
