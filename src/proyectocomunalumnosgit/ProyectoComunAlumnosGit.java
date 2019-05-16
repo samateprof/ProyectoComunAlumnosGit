@@ -17,7 +17,7 @@ public class ProyectoComunAlumnosGit {
     public static void main(String[] args) {
         System.out.println("Probando Github con múltiples colaboradores");
       
-        System.out.println("Método de Marta");
+        System.out.println("Método de Miguel");
     }
 
 }
